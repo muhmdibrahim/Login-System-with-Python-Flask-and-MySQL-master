@@ -13,7 +13,7 @@ app.secret_key = '1a2b3c4d5e6d7g8h9i10'
 # Enter your database connection details below
 app.config['MYSQL_HOST'] = ''
 app.config['MYSQL_USER'] = 'hemaa_ai'
-app.config['MYSQL_PASSWORD'] = 'Mosaad1511#' #Replace ******* with  your database password.
+app.config['MYSQL_PASSWORD'] = 'hemaa2468' #Replace ******* with  your database password.
 app.config['MYSQL_DB'] = 'login_users'
 
 # Intialize MySQL
